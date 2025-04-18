@@ -1,0 +1,13 @@
+[
+    {
+      "version": "2.0.2",
+      "date": "2025-04-18",
+      "changes": ["✨ Added cloud sync option. Ebmbook Pro can sync to this Mobile POS to see live updates.", "🐛 Fixed previous cloud login"]
+    },
+    {
+      "version": "2.0.1",
+      "date": "2025-03-25",
+      "changes": ["🚀 New dark theme and light theme added. The UI/UX of the app has been improved too. The menu style has been also changed."]
+    }
+  ]
+  
