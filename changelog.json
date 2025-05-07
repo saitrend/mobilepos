@@ -1,11 +1,20 @@
 [
     {
-      "version": "2.0.2",
+      "version": "2.0.4",
+      "date": "2025-05-07",
+      "changes": [
+        "🧩 Added advanced product options for grouping multiple options/features under a single product.",
+        "🎛️ A product can have pre-selected group options that are automatically included, with the option to unselect or select more.",
+        "🖨️ Added multiple receipt printing features, including Bluetooth, Wi-Fi, and pre-installed system printer support."
+      ]
+    },
+    {
+      "version": "2.0.3",
       "date": "2025-04-18",
       "changes": ["✨ Added cloud sync option. Ebmbook Pro can sync to this Mobile POS to see live updates.", "🐛 Fixed previous cloud login"]
     },
     {
-      "version": "2.0.1",
+      "version": "2.0.2",
       "date": "2025-03-25",
       "changes": ["🚀 New dark theme and light theme added. The UI/UX of the app has been improved too. The menu style has been also changed."]
     }
