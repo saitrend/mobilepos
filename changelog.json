@@ -1,5 +1,14 @@
 [
     {
+      "version": "2.0.5",
+      "date": "2025-05-29",
+      "changes": [
+        "🚀 Deals added: The deals feature enables you to create meals, create deals and link products and categories to the deals with any base price",
+        "🧠 Auto populate product groups upon typing for group names.",
+        "🔖 Deals integrated into receipts and also to cloud sync."
+      ]
+    },
+    {
       "version": "2.0.4",
       "date": "2025-05-07",
       "changes": [
