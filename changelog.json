@@ -1,4 +1,13 @@
 [
+  {
+    "version": "2.0.8",
+    "date": "2025-06-20",
+    "changes": [
+      "🧩 Deals and products are now same as Ebmbook Pro POS format.",
+      "✨ Enhanced the POS App interface for smoother and more intuitive user experience.",
+      "☁️ Cloud drive sync now fully integrated with Desktop Pro POS for seamless cross-device syncing."
+    ]
+  },
     {
       "version": "2.0.7",
       "date": "2025-05-20",
