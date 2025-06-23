@@ -1,5 +1,13 @@
 [
   {
+    "version": "2.1.0",
+    "date": "2025-06-23",
+    "changes": [
+      "✨ Further enhanced the POS App interface for smoother and more intuitive user experience.",
+      "☁️ Fixed bug with the cloud drive sync process to make it aligned with the Ebmbook Pro POS Cloud Drive."
+    ]
+  },
+  {
     "version": "2.0.8",
     "date": "2025-06-20",
     "changes": [
@@ -8,47 +16,51 @@
       "☁️ Cloud drive sync now fully integrated with Desktop Pro POS for seamless cross-device syncing."
     ]
   },
-    {
-      "version": "2.0.7",
-      "date": "2025-05-20",
-      "changes": [
-        "🧩 Products and order items were aligned with ebmbook Pro inventory for future syncing purpose."
-      ]
-    },
-    {
-      "version": "2.0.6",
-      "date": "2025-05-20",
-      "changes": [
-        "🐞 Bug fixed with assigning category to product and opening external links."
-      ]
-    },
-    {
-      "version": "2.0.5",
-      "date": "2025-05-19",
-      "changes": [
-        "🚀 Deals added: The deals feature enables you to create meals, create deals and link products and categories to the deals with any base price",
-        "🧠 Auto populate product groups upon typing for group names.",
-        "🔖 Deals integrated into receipts and also to cloud sync."
-      ]
-    },
-    {
-      "version": "2.0.4",
-      "date": "2025-05-07",
-      "changes": [
-        "🧩 Added advanced product options for grouping multiple options/features under a single product.",
-        "🎛️ A product can have pre-selected group options that are automatically included, with the option to unselect or select more.",
-        "🖨️ Added multiple receipt printing features, including Bluetooth, Wi-Fi, and pre-installed system printer support."
-      ]
-    },
-    {
-      "version": "2.0.3",
-      "date": "2025-04-18",
-      "changes": ["✨ Added cloud sync option. Ebmbook Pro can sync to this Mobile POS to see live updates.", "🐛 Fixed previous cloud login"]
-    },
-    {
-      "version": "2.0.2",
-      "date": "2025-03-25",
-      "changes": ["🚀 New dark theme and light theme added. The UI/UX of the app has been improved too. The menu style has been also changed."]
-    }
-  ]
-  
+  {
+    "version": "2.0.7",
+    "date": "2025-05-20",
+    "changes": [
+      "🧩 Products and order items were aligned with ebmbook Pro inventory for future syncing purpose."
+    ]
+  },
+  {
+    "version": "2.0.6",
+    "date": "2025-05-20",
+    "changes": [
+      "🐞 Bug fixed with assigning category to product and opening external links."
+    ]
+  },
+  {
+    "version": "2.0.5",
+    "date": "2025-05-19",
+    "changes": [
+      "🚀 Deals added: The deals feature enables you to create meals, create deals and link products and categories to the deals with any base price",
+      "🧠 Auto populate product groups upon typing for group names.",
+      "🔖 Deals integrated into receipts and also to cloud sync."
+    ]
+  },
+  {
+    "version": "2.0.4",
+    "date": "2025-05-07",
+    "changes": [
+      "🧩 Added advanced product options for grouping multiple options/features under a single product.",
+      "🎛️ A product can have pre-selected group options that are automatically included, with the option to unselect or select more.",
+      "🖨️ Added multiple receipt printing features, including Bluetooth, Wi-Fi, and pre-installed system printer support."
+    ]
+  },
+  {
+    "version": "2.0.3",
+    "date": "2025-04-18",
+    "changes": [
+      "✨ Added cloud sync option. Ebmbook Pro can sync to this Mobile POS to see live updates.",
+      "🐛 Fixed previous cloud login"
+    ]
+  },
+  {
+    "version": "2.0.2",
+    "date": "2025-03-25",
+    "changes": [
+      "🚀 New dark theme and light theme added. The UI/UX of the app has been improved too. The menu style has been also changed."
+    ]
+  }
+]
